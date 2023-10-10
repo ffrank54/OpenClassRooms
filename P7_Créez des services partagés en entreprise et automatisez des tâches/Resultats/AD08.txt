@@ -1,0 +1,2 @@
+Nom de l’imprimante	Nom du serveur	Objet de stratégie de groupe par utilisateur	Objet de stratégie de groupe par ordinateur
+novaPDF 11	ACME	Imprimante	Imprimante

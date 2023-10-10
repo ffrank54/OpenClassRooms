@@ -1,0 +1,5 @@
+#TYPE Selected.Microsoft.ActiveDirectory.Management.ADGroup
+"Name"
+"Utilisateurs du domaine"
+"Marketing"
+"Stagiaire"

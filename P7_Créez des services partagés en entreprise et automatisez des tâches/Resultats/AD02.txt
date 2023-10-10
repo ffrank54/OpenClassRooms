@@ -1,0 +1,5 @@
+#TYPE Selected.Microsoft.ActiveDirectory.Management.ADPrincipal
+"name","samAccountName","UserPrincipalName"
+"Ella DELACHANCE","Ella DELACHANCE",
+"Alain FIRMERIE","Alain FIRMERIE",
+"Monique KABELLUCHI","Monique KABELLUCHI",
