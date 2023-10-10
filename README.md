@@ -25,7 +25,7 @@ votre dossier sera ensuite étudié et validé par le jury du CESI.
 **- Projet 2 : Assemblez l’ordinateur idéal pour votre client**
 
 **- Projet 3 : Déployez le parc informatique d’une start-up**
-  Installez et déployez Windows 10
+  Installez et déployez Windows 10;
   Exploitez votre PC avec Windows 10
   Prenez le contrôle à distance d'un poste Linux/Windows avec VNC
   Virtualisez votre architecture et vos environnements de travail
