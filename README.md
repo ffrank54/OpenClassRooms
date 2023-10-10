@@ -3,6 +3,7 @@ Gérez le matériel du parc informatique, déployez des postes de travail et app
 
 
 **Compétences acquises grâce à cette formation**
+
 Monter un poste de travail répondant aux besoins de l'utilisateur
 Installer un poste de travail utilisateur et des périphériques (Windows et Linux)
 Installer du matériel et des périphériques sur une infrastructure d'entreprise (Windows)
